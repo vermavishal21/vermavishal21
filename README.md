@@ -1,78 +1,112 @@
-<h1 align="center">Vishal Verma</h1>
-<p align="center"><b>QA Automation Engineer</b></p>
+<h1 align="center">Hi 👋, I'm Vishal Verma</h1>
+<h3 align="center">QA Automation Engineer | API & Selenium Automation Specialist</h3>
 
 <p align="center">
-📞 8958812321 |
-📧 tech.vishalverma@gmail.com |
-<a href="http://linkedin.com/in/qa-vishal-verma">LinkedIn</a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=QA+Automation+Engineer;Selenium+%7C+REST+Assured+Expert;API+Testing+Specialist;3%2B+Years+Testing+Experience&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🧾 Summary
+## 🚀 About Me
 
-Automation-focused QA Engineer with **3+ years of experience** delivering high-quality releases for the **Magicbricks platform** under Happiest Minds Technologies. Specialized in **REST Assured API automation** and **Selenium UI automation using Page Object Model**. Recognized twice with **Bravo Award** for maintaining **zero P0 production defects** and ensuring **100% sprint delivery adherence**.
+- 🔭 Currently working as **QA Engineer at Happiest Minds**
+- 🏠 Working on **Magicbricks Real Estate Platform**
+- 🤖 Specialized in **API Automation & Selenium Frameworks**
+- 📱 Experience in **Web, Android & iOS Testing**
+- 💳 Expert in **Payment Gateway (PGI) Testing**
+- 🏆 **Bravo Award Winner (2025)** for maintaining **Zero P0 Production Defects**
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-| Category | Skills |
-|--------|--------|
-| Platforms | Web Testing, Android Testing, iOS Testing |
-| Programming | Java |
-| Automation | Selenium WebDriver, REST Assured, TestNG |
-| API Testing | Postman, JSON, JSONPath |
-| Payment Testing | PGI Testing, Payment Flow Validation |
-| Security Testing | Burp Suite |
-| Framework | Page Object Model (POM) |
-| Version Control | Git, Maven |
-| Database | SQL, MySQL |
-| Methodology | Agile / Scrum |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,selenium,maven,git,github,mysql,postman"/>
+
+</p>
+
+---
+
+## 🧪 QA Expertise
+
+✔ API Automation – REST Assured  
+✔ UI Automation – Selenium WebDriver  
+✔ Framework Design – Page Object Model  
+✔ API Validation – JSON / JSONPath  
+✔ Payment Gateway Testing – PGI / Juspay  
+✔ Platforms – Web / Android / iOS  
+✔ Database Validation – MySQL  
+✔ Security Testing – Burp Suite  
 
 ---
 
 ## 💼 Work Experience
 
-### Happiest Minds Technologies (Formerly PureSoftware)
-**QA Engineer | July 2024 – Present | Noida**
+### 🏢 Happiest Minds Technologies  
+**QA Engineer | 2024 – Present**
 
-- Designed modular **REST Assured automation framework**
-- Automated **150+ APIs** reducing regression effort by **60%**
-- Implemented **Bearer Token authentication and JSONPath validation**
-- Developed **Selenium UI automation using Page Object Model**
-- Maintained **zero P0 production defects**
-- Led **iOS testing for Site Visit and AI Bot projects**
-- Coordinated with **Juspay for PGI integration testing**
+- Built **REST Assured automation framework**
+- Automated **150+ APIs**
+- Reduced **manual regression by 60%**
+- Developed **Selenium POM automation**
+- Maintained **Zero P0 Production Defects**
 
 ---
 
-### Tabsons India Pvt. Ltd.
-**QA Engineer | June 2022 – July 2024 | Gurgaon**
+### 🏢 Tabsons India Pvt Ltd  
+**QA Engineer | 2022 – 2024**
 
-- Designed and executed **manual and API test cases**
-- Validated APIs using **Postman**
-- Performed **MySQL backend validation**
-- Conducted **cross-browser and E2E testing**
-- Collaborated with **development and product teams**
+- Manual + API testing for **web & mobile apps**
+- Backend validation using **MySQL**
+- Cross-browser and E2E workflow testing
 
 ---
 
 ## 🎓 Education
 
-**MCA**  
-Dev Bhoomi Uttarakhand University (2020 – 2022)
-
-**BCA**  
-Dev Bhoomi Uttarakhand University (2017 – 2020)
+🎓 **MCA** – Dev Bhoomi Uttarakhand University  
+🎓 **BCA** – Dev Bhoomi Uttarakhand University  
 
 ---
 
-## 🏆 Awards
+## 🏆 Achievements
 
-🏅 **Bravo Award – 2025 (Twice)**  
-Recognized for exceptional ownership and maintaining **zero critical production defects**
+🏅 **Bravo Award Winner – 2025 (Twice)**  
+Maintained **Zero Critical Production Defects**
 
 ---
 
-<p align="center">© 2026 Vishal Verma</p>
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vermavishal21&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=vermavishal21&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermavishal21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="http://linkedin.com/in/qa-vishal-verma">
+<img src="https://img.shields.io/badge/LinkedIn-Vishal%20Verma-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:tech.vishalverma@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
